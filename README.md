@@ -2,25 +2,25 @@
 >I've started my journey on a new java programming book, let's see how fun and challenging it will get.
 This basically contains my solutions to the Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 
-##Getting Started
+# Getting Started
 >Get you a copy of the project up and running on your local machine for development and testing purposes.
 >Do note that each exercise was solved within the scope of new terminologies introduced in each chapters, so it's 
 a good guide for progressive study.
 
 >Happy Coding!!!
 
-##Download
+# Download
 >[Here is a link](https://www.academia.edu/39285955/Intro_To_Java_Programming_Comprehensive_Version_10th_Edition_by_Y._Daniel_Liang)  to get the
 Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 
-##Screenshots
+# Screenshots
 ![Welcome](file:///home/olutobz/Pictures/Screenshot%20from%202019-08-19%2001-46-38.png)
 ![Title Page](file:///home/olutobz/Pictures/Title.png)
 
-###Contributing
+# Contributing
 >Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
 
-##License
+# License
 >[MIT](https://choosealicense.com/licenses/mit/)
 
 ##Progress
