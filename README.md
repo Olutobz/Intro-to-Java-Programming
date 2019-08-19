@@ -14,8 +14,8 @@ a good guide for progressive study.
 Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 
 # Screenshots
-![Welcome](file:///home/olutobz/Pictures/Screenshot%20from%202019-08-19%2001-46-38.png)
-![Title Page](file:///home/olutobz/Pictures/Title.png)
+<img src= "file:///home/olutobz/Pictures/Screenshot%20from%202019-08-19%2001-46-38.png" alt= "IntroJava" />
+<img src= "file:///home/olutobz/Pictures/Title.png" alt= "Title Page" />
 
 # Contributing
 >Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
@@ -23,7 +23,7 @@ Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 # License
 >[MIT](https://choosealicense.com/licenses/mit/)
 
-##Progress
+# Progress
 <ul> <li>Chapter 01: Introduction to computers, Programs, and Java <b>(STATUS: COMPLETED)</b> </li>
      <li>Chapter 02: Elementary Programming (STATUS: INCOMPLETE) </li>
      <li>Chapter 03: Selections (INCOMPLETE)</li>
