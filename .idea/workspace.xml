@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -230,12 +243,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566158125801</updated>
       <workItem from="1566158127602" duration="774000" />
-      <workItem from="1566158914937" duration="16970000" />
+      <workItem from="1566158914937" duration="17774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17744000" />
+    <option name="totallyTimeSpent" value="18548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="740" extended-state="6" />
@@ -259,7 +272,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943144" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32943144" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.6220736" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
