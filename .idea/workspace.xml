@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_08.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_09.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter1/Exercise_13.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,29 +16,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solutions/chapter1/Exercise_01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="204">
-                <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,10 +41,10 @@
         <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_08.java" />
         <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_09.java" />
         <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_10.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_11.java" />
         <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_12.java" />
         <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_13.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -243,12 +209,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566158125801</updated>
       <workItem from="1566158127602" duration="774000" />
-      <workItem from="1566158914937" duration="17774000" />
+      <workItem from="1566158914937" duration="18810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18548000" />
+    <option name="totallyTimeSpent" value="19584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="740" extended-state="6" />
@@ -272,8 +238,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943144" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.6220736" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49924242" visible="true" weight="0.6220736" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007576" side_tool="true" weight="0.6220736" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -386,20 +352,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/solutions/chapter1/Exercise_01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
