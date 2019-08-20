@@ -22,12 +22,15 @@ Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 # Contributing
 >Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
 
-# License
->[MIT](https://choosealicense.com/licenses/mit/)
+# License 
+>[MIT License](LICENSE)
+
+## Copyright
+© Onikoyi Damola Olutoba
 
 # Progress
 <ul> <li>Chapter 01: Introduction to computers, Programs, and Java <b>(STATUS: COMPLETED)</b> </li>
-     <li>Chapter 02: Elementary Programming (STATUS: INCOMPLETE) </li>
+     <li>Chapter 02: Elementary Programming <b>(STATUS: COMPLETED)</b> </li>
      <li>Chapter 03: Selections (INCOMPLETE)</li>
      <li>Chapter 04: Mathematical Functions, Characters, and Strings (STATUS: INCOMPLETE) </li>
      <li>Chapter 05: Loops (STATUS: INCOMPLETE) </li>
