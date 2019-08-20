@@ -34,7 +34,7 @@ public class Exercise_11 {
         System.out.println(312032486 + (((31536000 / 7)
                 - (31536000 / 13)
                 + (31536000 / 45)) * 2));
-        System.out.print("Year 3 polutation projection: ");
+        System.out.print("Year 3 population projection: ");
         System.out.println(312032486 + (((31536000 / 7)
                 - (31536000 / 13)
                 + (31536000 / 45)) * 3));
