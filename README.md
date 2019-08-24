@@ -1,8 +1,10 @@
 # Intro-to-Java-Programming
 >I've started my journey on a new java programming book, let's see how fun and challenging it will get.
-This basically contains my solutions to the Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
+This basically contains my solutions to the Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang (Author).
+I chose this book because it was well recommended by other experienced java developers, it will also help me cover some loop holes I still have in java and subsequently 
+it will help sharpen my data structures and algorithms knowledge.
 
-# Getting Started
+## Getting Started
 >Get you a copy of the project up and running on your local machine for development and testing purposes.
 >Do note that each exercise was solved within the scope of new terminologies introduced in each chapters, so it's 
 a good guide for progressive study.
