@@ -21,8 +21,9 @@ public class Exercise_02_21 {
         System.out.print("Enter investment amount: ");
         double amount = input.nextDouble();
         System.out.print("Enter annual interest rate in percentage: ");
-        double monthlyInterestRate = input.nextDouble();
-        monthlyInterestRate /= 1200;
+        double annualInterestRate = input.nextDouble();
+        // Convert the annual the interest rate to a monthly interest rate
+        double monthlyInterestRate = annualInterestRate / 1200;
         System.out.print("Enter number of years: ");
         int years = input.nextInt();
 

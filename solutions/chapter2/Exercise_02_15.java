@@ -18,7 +18,7 @@ public class Exercise_02_15 {
         double x2 = input.nextDouble();
         double y2 = input.nextDouble();
 
-        // Calucate the distance between the two points
+        // Calculate the distance between the two points
         double distance = Math.pow(Math.pow(x2 - x1, 2) +
                 Math.pow(y2 - y1, 2), 0.5);
 

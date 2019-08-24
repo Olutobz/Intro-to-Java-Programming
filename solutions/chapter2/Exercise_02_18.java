@@ -1,7 +1,7 @@
 package chapter2;
 
 /*
-(Print a table) Write a program that displays the following table. Cast floatingpoint
+(Print a table) Write a program that displays the following table. Cast floating point
 numbers into integers.
 a 		b 		pow(a, b)
 1 		2 		1

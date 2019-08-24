@@ -10,7 +10,7 @@ formula is
 		twc = 35.74 + 0.6215ta - 35.75v^0.16 + 0.4275tav^0.16
 where ta is the outside temperature measured in degrees Fahrenheit and v is the
 speed measured in miles per hour. twc is the wind-chill temperature. The formula
-cannot be used for wind speeds below 2 mph or temperatures below -58 ºF or
+cannot be used for wind speeds below 2 mph or temperatures below -58ºF or
 above 41ºF.
 Write a program that prompts the user to enter a temperature between -58 ºF and
 41ºF and a wind speed greater than or equal to 2 and displays the wind-chill temperature.

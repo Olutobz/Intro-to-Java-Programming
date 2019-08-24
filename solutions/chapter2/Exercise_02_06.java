@@ -19,12 +19,12 @@ public class Exercise_02_06 {
         int number = input.nextInt();
 
         // Compute the sum of the digits in the integer.
-        int lessThan10 = number % 10;		// Extract the digit less than 10
-        number /= 10;							// Remove the extracted digit
-        int tens = number % 10;				// Extract the digit between 10 to 99
-        number /= 10;							// Remove the extracted digit
-        int hundreds = number;		// Extract the digit between 100 to 999
-        int sum = hundreds + tens + lessThan10;
+        int units = number % 10;		// Extract the digit less than 10
+        number /= 10;				       	// Remove the extracted digit
+        int tens = number % 10;		   // Extract the digit between 10 to 99
+        number /= 10;						// Remove the extracted digit
+        int hundreds = number;	       // Add the remainder digit
+        int sum = hundreds + tens + units;
 
         // Display results
         System.out.println("The sum of the digits is " + sum);

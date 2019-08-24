@@ -14,8 +14,7 @@ public class Exercise_02_22 {
         Scanner input = new Scanner(System.in);
 
         // Receive the amount
-        System.out.print(
-                "Enter an amount as integer, for example 1156 for 11.56: ");
+        System.out.print("Enter an amount as integer, for example 1156 for 11.56: ");
         int amount = input.nextInt();
 
         int remainingAmount = amount;
@@ -36,7 +35,7 @@ public class Exercise_02_22 {
         int numberOfNickels = remainingAmount / 5;
         remainingAmount %= 5;
 
-        // Find the number of pennies in the remaining amoung
+        // Find the number of pennies in the remaining amount
         int numberOfPennies = remainingAmount;
 
         // Display results
