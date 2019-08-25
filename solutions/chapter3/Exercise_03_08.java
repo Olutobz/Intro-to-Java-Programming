@@ -19,7 +19,7 @@ public class Exercise_03_08 {
         int number3 = input.nextInt();
 
         // Sort numbers
-        int temp;
+        int temp;   // Temporarily holds a number for a swap
         if (number2 < number1 || number3 < number1) {
             if (number2 < number1) {
                 temp = number1;

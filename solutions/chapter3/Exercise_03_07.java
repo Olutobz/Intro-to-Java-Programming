@@ -15,11 +15,10 @@ public class Exercise_03_07 {
         Scanner input = new Scanner(System.in);
 
         // Receive the amount
-        System.out.print(
-                "Enter an amount in double, for example 11.56: ");
+        System.out.print("Enter an amount in double, for example 11.56: ");
         double amount = input.nextDouble();
 
-        int remainingAmount = (int)(amount * 100);
+        int remainingAmount = (int) (amount * 100);
 
         // Find the number of one dollars
         int numberOfDollars = remainingAmount / 100;
@@ -52,7 +51,7 @@ public class Exercise_03_07 {
         System.out.println(" " + numberOfNickels +
                 (numberOfNickels == 1 ? " nickel" : " nickels"));
         System.out.println(" " + numberOfPennies +
-                (numberOfPennies == 1 ? " pennie" : " pennies"));
+                (numberOfPennies == 1 ? " penny" : " pennies"));
 
     }
 }
