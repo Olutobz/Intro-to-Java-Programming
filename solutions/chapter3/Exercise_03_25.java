@@ -22,14 +22,15 @@ public class Exercise_03_25 {
 
         // Prompt the user to enter four points
         System.out.print("Enter x1, y1, x2, y2, x3, y3, x4, y4: ");
-        double x1 = input.nextDouble();
-        double y1 = input.nextDouble();
-        double x2 = input.nextDouble();
-        double y2 = input.nextDouble();
-        double x3 = input.nextDouble();
-        double y3 = input.nextDouble();
-        double x4 = input.nextDouble();
-        double y4 = input.nextDouble();
+        double x1, y1, x2, y2, x3, y3, x4, y4;
+        x1 = input.nextDouble();
+        y1 = input.nextDouble();
+        x2 = input.nextDouble();
+        y2 = input.nextDouble();
+        x3 = input.nextDouble();
+        y3 = input.nextDouble();
+        x4 = input.nextDouble();
+        y4 = input.nextDouble();
 
         // Calculate the intersecting point
         // Get a, b, c, d, e, f
