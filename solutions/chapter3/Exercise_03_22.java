@@ -25,6 +25,5 @@ public class Exercise_03_22 {
         // Display results
         System.out.println("Point (" + x + ", " + y + ") is " +
                 ((withinCircle) ? "in " : "not in ") + "the circle");
-
     }
 }

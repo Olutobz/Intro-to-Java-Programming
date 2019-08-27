@@ -17,8 +17,7 @@ public class Exercise_03_20 {
         Scanner input = new Scanner(System.in);
 
         // Prompt the user to enter a temperature and a wind speed
-        System.out.print("Enter the temperature in Fahrenheit " +
-                "between -58F and 41F: ");
+        System.out.print("Enter the temperature in Fahrenheit between -58F and 41F: ");
         double temperature = input.nextDouble();
         System.out.print("Enter the wind speed (>= 2) in miles per hour: ");
         double speed = input.nextDouble();
