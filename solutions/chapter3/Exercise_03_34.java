@@ -25,10 +25,9 @@ public class Exercise_03_34 {
         y2 = input.nextDouble();
 
         // Calculate point in on line segment
-        @SuppressWarnings("DuplicateExpressions") boolean online =
-                !(((x1 - x0) * (y2 - y0) - (x2 - x0) * (y1 - y0)) > 0 ||
-                        ((x1 - x0) * (y2 - y0) - (x2 - x0) * (y1 - y0)) < 0 ||
-                        (x2 < x0) || (y2 < y0) || (x2 > x1) || (y2 > y1));
+        var v = (x1 - x0) * (y2 - y0) - (x2 - x0) * (y1 - y0);
+        boolean online = !(v > 0 || v < 0 ||
+                (x2 < x0) || (y2 < y0) || (x2 > x1) || (y2 > y1));
 
 
         // Display result
