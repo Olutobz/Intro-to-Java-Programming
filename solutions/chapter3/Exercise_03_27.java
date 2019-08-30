@@ -5,7 +5,7 @@ package chapter3;
 shown below. The right-angle point is placed at (0, 0), and the other two points
 are placed at (200, 0), and (0, 100). Write a program that prompts the user to enter
 a point with x- and y-coordinates and determines whether the point is inside the
-triangle. Here are the sample runs:
+triangle.
 */
 
 import java.util.Scanner;
@@ -19,9 +19,6 @@ public class Exercise_03_27 {
         double x = input.nextDouble();
         double y = input.nextDouble();
 
-        // Determine whether the point is inside the triangle
-        // getting the point of ina line that starts at point
-
         // Get the intersecting point with the hypotenuse side of the triangle
         // of a line that starts and points (0, 0) and touches the user points
         double intersectX = (-x * (200 * 100)) / (-y * 200 - x * 100);
@@ -30,7 +27,5 @@ public class Exercise_03_27 {
         // Display results
         System.out.println("The point " + ((x > intersectX || y > intersectY)
                 ? "is not " : "is ") + "in the triangle");
-
-
     }
 }

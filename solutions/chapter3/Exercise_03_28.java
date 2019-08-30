@@ -16,10 +16,11 @@ public class Exercise_03_28 {
         // Prompt the user to enter the center x, y coordinates,
         // width, and height of two rectangles
         System.out.print("Enter r1's center x-, y-coordinates, width and height: ");
-        double r1x = input.nextDouble();
-        double r1y = input.nextDouble();
-        double r1Width = input.nextDouble();
-        double r1Height = input.nextDouble();
+        double r1x, r1y, r1Width, r1Height;
+        r1x = input.nextDouble();
+        r1y = input.nextDouble();
+        r1Width = input.nextDouble();
+        r1Height = input.nextDouble();
         System.out.print("Enter r2's center x-, y-coordinates, width and height: ");
         double r2x = input.nextDouble();
         double r2y = input.nextDouble();
@@ -37,7 +38,5 @@ public class Exercise_03_28 {
             System.out.println("r2 overlaps r1");
         else
             System.out.println("r2 does not overlap r1");
-
     }
-
 }

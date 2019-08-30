@@ -2,7 +2,7 @@ package chapter3;
 
 /*
 (Current time) Revise Programming Exercise 2.8 to display the hour using a
-12-hour clock. Here is a sample run:
+12-hour clock.
 */
 
 import java.util.Scanner;
@@ -19,7 +19,8 @@ public class Exercise_03_30 {
         long totalMilliseconds = System.currentTimeMillis();
 
         // Obtain the total seconds since midnight, Jan 1, 1970
-        long totalSeconds = totalMilliseconds / 1000;
+        long totalSeconds;
+        totalSeconds = totalMilliseconds / 1000;
 
         // Compute the current second in the minute in the hour
         long currentSecond = totalSeconds % 60;
@@ -31,7 +32,8 @@ public class Exercise_03_30 {
         long currentMinute = totalMinutes % 60;
 
         // Obtain the total hours
-        long totalHours = totalMinutes / 60;
+        long totalHours;
+        totalHours = totalMinutes / 60;
 
         // Compute the current hour
         long currentHour = totalHours % 24;

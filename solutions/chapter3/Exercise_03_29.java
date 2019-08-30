@@ -4,7 +4,7 @@ package chapter3;
 (Geometry: two circles) Write a program that prompts the user to enter the center
 coordinates and radii of two circles and determines whether the second circle is
 inside the first or overlaps with the first, as shown in Figure 3.10. (Hint: circle2 is
-inside circle1 if the distance between the two centers 6 = |r1 - r2| and circle2
+inside circle1 if the distance between the two centers <= |r1 - r2| and circle2
 overlaps circle1 if the distance between the two centers <= r1 + r2. Test your
 program to cover all cases.)
 */
@@ -26,13 +26,16 @@ public class Exercise_03_29 {
         y2 = input.nextDouble();
         r2 = input.nextDouble();
 
+        // Checking if circle2 lies inside circle1
         if (Math.pow(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2), 0.5)
-                <= Math.abs(r1 - r2))
+                <= Math.abs(r1 - r2)) {
             System.out.println("circle2 is inside circle1");
+        }
+        // Checking if circle2 overlaps circle1
         else if (Math.pow(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2), 0.5)
-                <= r1 + r2)
+                <= r1 + r2) {
             System.out.println("circle2 overlaps circle1");
-        else
+        } else
             System.out.println("circle2 does not overlap circle1");
 
     }

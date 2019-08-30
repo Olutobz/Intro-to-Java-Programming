@@ -4,21 +4,20 @@ package chapter3;
 (Game: pick a card) Write a program that simulates picking a card from a deck
 of 52 cards. Your program should display the rank (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10,
 Jack, Queen, King) and suit (Clubs, Diamonds, Hearts, Spades) of the card.
-Here is a sample run of the program:
 */
 
 public class Exercise_03_24 {
     public static void main(String[] args) {
         // Generate a random integer 1 - 13
-        int rank = (int) ((Math.random() * (14 - 1)) + 1);
+        int rank = (int) ((Math.random() * 13)) + 1;
 
         // Generate a random integer 1 - 4
-        int suit = (int) (Math.random() * 4);
+        int suit = (int) (Math.random() * 4) + 1;
 
         // Display card picked from deck
         System.out.print("The card you picked is ");
-        switch (rank) // Get rank
-        {
+        // Get the rank
+        switch (rank) {
             case 1:
                 System.out.print("Ace");
                 break;
@@ -42,9 +41,10 @@ public class Exercise_03_24 {
             case 13:
                 System.out.print("King");
         }
+
         System.out.print(" of ");
-        switch (suit) // Get suit
-        {
+        // Get the suit
+        switch (suit) {
             case 0:
                 System.out.println("Clubs");
                 break;
