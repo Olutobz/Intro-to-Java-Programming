@@ -3,20 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter3/Exercise_03_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter3/Exercise_03_34.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,19 +29,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_34.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -64,116 +39,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_20.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_03.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_13.java" />
-        <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_07.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_08.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_09.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter1/Exercise_13.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_01.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_06.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_14.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_15.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_17.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_21.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_22.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter2/Exercise_02_23.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_01.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_02.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_03.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_04.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_05.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_09.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_10.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_07.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_06.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_08.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_11.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_12.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_16.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_17.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_23.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_13.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_14.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_15.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_18.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_19.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_20.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_21.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_22.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_32.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_33.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_24.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_25.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_26.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_27.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_28.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_29.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_30.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_31.java" />
-        <option value="$PROJECT_DIR$/solutions/chapter3/Exercise_03_34.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="28" />
-    <option name="width" value="683" />
-    <option name="height" value="740" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Intro-to-Java-Programming" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/IdeaProjects/Intro-to-Java-Programming" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Intro-to-Java-Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-to-Java-Programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-to-Java-Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-to-Java-Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-to-Java-Programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-to-Java-Programming" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Course" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1QXpgAkgiiaWc69qZVqaEIxaRd8" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ONlineSoln/Intro-to-Java-Programming-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ONlineSoln" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -186,6 +58,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -208,46 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise_03_31">
-    <configuration name="Exercise_03_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Exercise_03_27" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise_03_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Exercise_03_28" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise_03_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Exercise_03_29" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise_04_01">
     <configuration name="Exercise_03_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Exercise_03_30" />
       <module name="Intro-to-Java-Programming" />
@@ -274,13 +108,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise_03_34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Exercise_03_34" />
+      <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_04_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Exercise_04_01" />
+      <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
+      <module name="Intro-to-Java-Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise_04_01" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.Exercise_03_34" />
         <item itemvalue="Application.Exercise_03_31" />
         <item itemvalue="Application.Exercise_03_30" />
-        <item itemvalue="Application.Exercise_03_29" />
-        <item itemvalue="Application.Exercise_03_28" />
-        <item itemvalue="Application.Exercise_03_27" />
       </list>
     </recent_temporary>
   </component>
@@ -313,80 +180,16 @@
       <workItem from="1567026685097" duration="2415000" />
       <workItem from="1567145820917" duration="1060000" />
       <workItem from="1567154390398" duration="4063000" />
-      <workItem from="1567196299916" duration="5171000" />
+      <workItem from="1567196299916" duration="6668000" />
+      <workItem from="1567926928058" duration="1700000" />
+      <workItem from="1568174550742" duration="789000" />
+      <workItem from="1568280300081" duration="1511000" />
+      <workItem from="1568296418439" duration="1961000" />
+      <workItem from="1568395638641" duration="3935000" />
+      <workItem from="1568971944639" duration="2052000" />
+      <workItem from="1569431863520" duration="1192000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100640000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1366" height="740" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49832776" visible="true" weight="0.26136363" />
-      <window_info id="Structure" order="1" sideWeight="0.50167227" side_tool="true" weight="0.21363637" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35117057" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.33444816" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924242" weight="0.6220736" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007576" side_tool="true" weight="0.6220736" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32943144" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.32967034" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49832776" visible="true" weight="0.21969697" />
-      <window_info id="Structure" order="1" sideWeight="0.50167227" side_tool="true" weight="0.21363637" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41304347" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.33444816" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924242" weight="0.6220736" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007576" side_tool="true" weight="0.6220736" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32943144" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -401,367 +204,18 @@
       </list>
     </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="78" lean-forward="true" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="64" lean-forward="true" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter1/Exercise_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter2/Exercise_02_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="57" lean-forward="true" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="459">
-            <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="17" column="67" lean-forward="true" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_30.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/chapter3/Exercise_03_34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
