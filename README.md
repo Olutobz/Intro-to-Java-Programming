@@ -19,8 +19,6 @@ Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 ![Intro Page](https://ik.imagekit.io/ai9h6tfqg/Screenshot_from_2019-08-19_01-46-38_9MmDyVMTQ.png)
 ![Title page](https://ik.imagekit.io/ai9h6tfqg/Title_goVkxJYEC.png)
 
-
-
 # Contributing
 >Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
 
