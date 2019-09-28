@@ -32,7 +32,7 @@ Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 <ul> <li>Chapter 01: Introduction to computers, Programs, and Java <b>(STATUS: COMPLETED)</b> </li>
      <li>Chapter 02: Elementary Programming <b>(STATUS: COMPLETED)</b> </li>
      <li>Chapter 03: Selections <b>(COMPLETED)</b></li>
-     <li>Chapter 04: Mathematical Functions, Characters, and Strings (STATUS: INCOMPLETE) </li>
+     <li>Chapter 04: Mathematical Functions, Characters, and Strings (STATUS: COMPLETED) </li>
      <li>Chapter 05: Loops (STATUS: INCOMPLETE) </li>
      <li>Chapter 06: Methods(STATUS: INCOMPLETE) </li>
      <li>Chapter 07: Single-Dimensional Arrays (STATUS: INCOMPLETE) </li>
