@@ -9,4 +9,7 @@ formula in Programming Exercise 2.19 to compute the area of a triangle.)
 */
 
 public class Exercise_04_03 {
+    public static void main(String[] args) {
+        // Todo: supply code later
+    }
 }

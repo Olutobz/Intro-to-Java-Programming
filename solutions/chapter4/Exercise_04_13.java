@@ -15,19 +15,19 @@ public class Exercise_04_13 {
         String s = input.nextLine();
         char ch = s.charAt(0);
 
-        if (Character.isLetter(ch))
-        {
-            switch(Character.toUpperCase(ch))
-            {
+        if (Character.isLetter(ch)) {
+            switch (Character.toUpperCase(ch)) {
                 case 'A':
                 case 'E':
                 case 'I':
                 case '0':
-                case 'U': System.out.println(ch + " is a vowel"); break;
-                default : System.out.println(ch + " is a consonant");
+                case 'U':
+                    System.out.println(ch + " is a vowel");
+                    break;
+                default:
+                    System.out.println(ch + " is a consonant");
             }
-        }
-        else
+        } else
             System.out.println(ch + " is an invalid input");
     }
 }

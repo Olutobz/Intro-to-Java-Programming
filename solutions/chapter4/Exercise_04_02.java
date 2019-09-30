@@ -45,9 +45,8 @@ public class Exercise_04_02 {
         y2 = Math.toRadians(y2);
 
         // Calculate its great circle distance
-        double distance =
-                RADIUS * Math.acos(Math.sin(x1) * Math.sin(x2) +
-                        Math.cos(x1) * Math.cos(x2) * Math.cos(y1 - y2));
+        double distance = RADIUS * Math.acos(Math.sin(x1) * Math.sin(x2) +
+                Math.cos(x1) * Math.cos(x2) * Math.cos(y1 - y2));
 
         // Display result
         System.out.println("The distance between the two points is " + distance);
