@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="" />
+    <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,20 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise_04_01">
-    <configuration name="Exercise_03_30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Exercise_03_30" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise_04_02">
     <configuration name="Exercise_03_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.Exercise_03_31" />
       <module name="Intro-to-Java-Programming" />
@@ -130,6 +120,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise_04_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Exercise_04_02" />
+      <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
       <module name="Intro-to-Java-Programming" />
@@ -139,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise_04_02" />
         <item itemvalue="Application.Exercise_04_01" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.Exercise_03_34" />
         <item itemvalue="Application.Exercise_03_31" />
-        <item itemvalue="Application.Exercise_03_30" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +189,9 @@
       <workItem from="1569431863520" duration="1891000" />
       <workItem from="1569516196893" duration="2795000" />
       <workItem from="1569599767167" duration="2216000" />
+      <workItem from="1569704899621" duration="478000" />
+      <workItem from="1569780789330" duration="743000" />
+      <workItem from="1569874841616" duration="637000" />
     </task>
     <servers />
   </component>
