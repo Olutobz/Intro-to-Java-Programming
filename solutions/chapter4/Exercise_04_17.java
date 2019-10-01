@@ -19,8 +19,7 @@ public class Exercise_04_17 {
         String month = input.next();
 
         // Test for leap year
-        boolean leapYear =
-                ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
+        boolean leapYear = ((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0);
 
         // Display the number of day in the month
         System.out.print(month + " " + year + " has ");

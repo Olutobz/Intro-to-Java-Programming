@@ -1,4 +1,8 @@
 package chapter4;
+/* (Phone key pads) The international standard letter/number mapping found on the
+telephone is shown below:
+Write a program that prompts the user to enter a letter and displays its correspond-
+ing number. */
 
 import java.util.Scanner;
 
