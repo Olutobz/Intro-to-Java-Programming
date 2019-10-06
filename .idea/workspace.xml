@@ -59,12 +59,12 @@
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/solutions/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -194,7 +194,8 @@
       <workItem from="1569920720612" duration="1967000" />
       <workItem from="1570125009640" duration="874000" />
       <workItem from="1570126813470" duration="136000" />
-      <workItem from="1570215923429" duration="821000" />
+      <workItem from="1570215923429" duration="1360000" />
+      <workItem from="1570380611917" duration="1032000" />
     </task>
     <servers />
   </component>
