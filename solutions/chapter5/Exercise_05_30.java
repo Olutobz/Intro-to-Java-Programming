@@ -47,8 +47,7 @@ public class Exercise_05_30 {
         }
 
         // Display result
-        System.out.printf(
-                "Amount in savings account after " +
+        System.out.printf("Amount in savings account after " +
                         months + " months: $%.2f\n", compoundValue);
     }
 }
