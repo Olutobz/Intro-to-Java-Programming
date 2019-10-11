@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -204,7 +203,9 @@
       <workItem from="1570581635724" duration="12000" />
       <workItem from="1570588145430" duration="9000" />
       <workItem from="1570650087528" duration="545000" />
-      <workItem from="1570668640278" duration="122000" />
+      <workItem from="1570668640278" duration="393000" />
+      <workItem from="1570670125763" duration="608000" />
+      <workItem from="1570825747107" duration="568000" />
     </task>
     <servers />
   </component>
