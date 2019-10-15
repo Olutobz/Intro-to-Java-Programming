@@ -1,10 +1,10 @@
 package chapter5;
-
-import java.util.Scanner;
 /*
 (Reverse a string) Write a program that prompts the user to enter a string and
 displays the string in reverse order.
 */
+
+import java.util.Scanner;
 
 public class Exercise_05_46 {
     public static void main(String[] args) {

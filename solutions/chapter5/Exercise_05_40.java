@@ -6,9 +6,7 @@ million times and displays the number of heads and tails.
 
 public class Exercise_05_40 {
     public static void main(String[] args) {
-        int heads,                // Counts the number of heads
-                tails,                // Counts the number of tails
-                coin;                // Coin
+        int heads, tails, coin;  // Counts the number of tails, heads and coin
         heads = tails = 0;    // Initialize heads and tails to 0;
 
         // Simulate flipping a coin one million times

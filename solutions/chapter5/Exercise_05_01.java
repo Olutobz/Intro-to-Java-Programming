@@ -1,5 +1,4 @@
-package chapter5
-
+package chapter5;
 /*
 (Count positive and negative numbers and compute the average of numbers) Write
 a program that reads an unspecified number of integers, determines how many
@@ -8,45 +7,43 @@ the input values (not counting zeros). Your program ends with the input 0. Displ
 the average as a floating-point number.
 */
 
-import java.util.Scanner
+import java.util.Scanner;
 
-object Exercise_05_01 {
-    @JvmStatic
-    fun main(args: Array<String>) {
-        val input = Scanner(System.`in`)
+public class Exercise_05_01 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
 
-        var positives = 0    // Count the number of positive numbers
-        var negatives = 0    // Count the number of negative numbers
-        var count = 0            // Count all numbers
-        var total = 0.0        // Accumulate a total
-
+        int positives = 0;    // Count the number of positive numbers
+        int negatives = 0;    // Count the number of negative numbers
+        int count = 0;            // Count all numbers
+        double total = 0;        // Accumulate a total
 
         // Prompt the user to enter an integer or 0 to exit
-        print("Enter an integer, the input ends if it is 0: ")
-        var number = input.nextInt()
+        System.out.print("Enter an integer, the input ends if it is 0: ");
+        int number = input.nextInt();
 
         if (number == 0) {    // Test for sentinel value
-            println("No numbers are entered except 0")
-            System.exit(1)
+            System.out.println("No numbers are entered except 0");
+            System.exit(1);
         }
 
         while (number != 0) {// Test for sentinel value
             if (number > 0)
-                positives++    // Increase positives
+                positives++;    // Increase positives
             else
-                negatives++    // Increase negatives
-            total += number.toDouble()    // Accumulate total
-            count++                // Increase the count
-            number = input.nextInt()
+                negatives++;    // Increase negatives
+            total += number;    // Accumulate total
+            count++;                // Increase the count
+            number = input.nextInt();
         }
 
         // Calculate the average
-        val average = total / count
+        double average = total / count;
 
         // Display results
-        println("The number of positive is " + positives +
+        System.out.println("The number of positive is " + positives +
                 "\nThe number of negatives is " + negatives +
                 "\nThe total is total " + total +
-                "\nThe average is " + average)
+                "\nThe average is " + average);
     }
 }
