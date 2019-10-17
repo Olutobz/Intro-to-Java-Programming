@@ -10,8 +10,7 @@ public class Exercise_05_20 {
         final int NUMBER_OF_PRIMES_PER_LINE = 8; // Display 8 per line
         int count = 0; // Count the number of prime numbers
 
-        System.out.println(
-                "The prime numbers between 2 and 1,000, inclusive are \n");
+        System.out.println("The prime numbers between 2 and 1,000, inclusive are ");
 
         // Repeatedly find prime numbers
         for (int number = 2; number <= 1000; number++) {

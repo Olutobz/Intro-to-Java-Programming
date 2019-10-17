@@ -16,8 +16,7 @@ public class Exercise_05_04 {
         final double KILOMETERS_PER_MILE = 1.609;
 
         // Display table header
-        System.out.println(
-                "Miles        Kilometers");
+        System.out.println("Miles        Kilometers");
 
         // Create and display table showing conversion from miles to kilometers
         for (int i = 1; i <= 10; i++) {

@@ -12,7 +12,7 @@ public class Exercise_05_08 {
         // Create Scanner object
         Scanner input = new Scanner(System.in);
 
-        int highestScore = 0;            // Holds the highest student score
+        int highestScore = 0;   // Holds the highest student score
         String highestScoreName = ""; // Holds the student name with highest score
 
         // Prompt the user to enter the number of students
@@ -22,12 +22,9 @@ public class Exercise_05_08 {
         // Prompt the user to enter each student's name and score
         System.out.println("Enter each student’s name and score");
         for (int i = 0; i < numberOfStudents; i++) {
-            System.out.print(
-                    "Student: " + (i + 1) +
-                            "\n   Name: ");
+            System.out.print("Student: " + (i + 1) + "\n   Name: ");
             String name = input.next();
-            System.out.print(
-                    "   Score: ");
+            System.out.print("   Score: ");
             int score = input.nextInt();
 
             // Test if score is higher than highest score
@@ -35,10 +32,9 @@ public class Exercise_05_08 {
                 highestScore = score;
                 highestScoreName = name;
             }
-
         }
 
         // Display the name of the student with the highest score
-        System.out.println("Student with the highest score: " + highestScoreName);
+        System.out.println("Student with the highest score is " + highestScoreName);
     }
 }

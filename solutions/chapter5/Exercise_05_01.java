@@ -27,7 +27,7 @@ public class Exercise_05_01 {
             System.exit(1);
         }
 
-        while (number != 0) {// Test for sentinel value
+        while (number != 0) {   // Test for sentinel value
             if (number > 0)
                 positives++;    // Increase positives
             else

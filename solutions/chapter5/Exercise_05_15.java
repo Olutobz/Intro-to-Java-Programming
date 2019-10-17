@@ -15,7 +15,7 @@ public class Exercise_05_15 {
         for (int i = 33; i <= 126; i++) {
             count++;    // Increment count
             // Display 10 characters per line
-            if (count % 10 == 0)
+            if (count % NUMBER_OF_CHARACTERS_PER_LINE == 0)
                 System.out.println((char) i);
             else
                 System.out.print((char) i + " ");

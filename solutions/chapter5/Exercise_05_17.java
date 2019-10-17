@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Exercise_05_17 {
     public static void main(String[] args) {
-// Create a Scanner object
+        // Create a Scanner object
         Scanner input = new Scanner(System.in);
 
         // Prompt the user to enter an integer from 1 to 15

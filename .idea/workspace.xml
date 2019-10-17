@@ -3,10 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_40.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_18_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_18_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_20.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,48 +100,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise_05_40">
-    <configuration name="Exercise_04_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.Exercise_04_01" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise_04_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.Exercise_04_02" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise_04_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.Exercise_04_15" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise_05_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_40" />
+  <component name="RunManager" selected="Application.Exercise_05_20">
+    <configuration name="Exercise_05_18_00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_18_00" />
       <module name="Intro-to-Java-Programming" />
       <extension name="coverage">
         <pattern>
@@ -138,20 +114,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
+    <configuration name="Exercise_05_18_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_18_02" />
       <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_05_18_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_18_03" />
+      <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_05_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_19" />
+      <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_05_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_20" />
+      <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise_05_40" />
-        <item itemvalue="Application.Exercise_04_15" />
-        <item itemvalue="Application.Exercise_04_02" />
-        <item itemvalue="Application.Exercise_04_01" />
-        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.Exercise_05_20" />
+        <item itemvalue="Application.Exercise_05_19" />
+        <item itemvalue="Application.Exercise_05_18_03" />
+        <item itemvalue="Application.Exercise_05_18_02" />
+        <item itemvalue="Application.Exercise_05_18_00" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +233,10 @@
       <workItem from="1570825747107" duration="1041000" />
       <workItem from="1571000106825" duration="410000" />
       <workItem from="1571071429993" duration="125000" />
-      <workItem from="1571168044083" duration="1071000" />
+      <workItem from="1571168044083" duration="1771000" />
+      <workItem from="1571190957580" duration="161000" />
+      <workItem from="1571263529171" duration="52000" />
+      <workItem from="1571332462070" duration="5740000" />
     </task>
     <servers />
   </component>

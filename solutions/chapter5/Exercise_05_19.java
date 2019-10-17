@@ -23,8 +23,8 @@ public class Exercise_05_19 {
                 System.out.printf("%4d", (r));
             }
             System.out.println();    // End line
-            endSpace--;                // Decrement endSpace
-            startRight = row;            // Assign row to startRight
+            endSpace--;              // Decrement endSpace
+            startRight = row;        // Assign row to startRight
         }
     }
 }

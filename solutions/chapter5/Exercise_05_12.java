@@ -13,8 +13,7 @@ public class Exercise_05_12 {
                 n++;        // Increment n
             }
             // Display result
-            System.out.println(
-                    "The smallest integer n such that n^2 is greater than 12,000: " + n);
+            System.out.println("The smallest integer n such that n^2 is greater than 12,000: " + n);
         }
     }
 }

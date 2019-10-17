@@ -8,7 +8,7 @@ total cost of four years’ worth of tuition after the tenth year.
 
 public class Exercise_05_07 {
     public static void main(String[] args) {
-        int totalCost = 0;		// Accumulate total cost of four years tution
+        int totalCost = 0;		// Accumulate total cost of four years tuition
         int tuition = 10000;
         int tuitionTenthYear = 0;
 
