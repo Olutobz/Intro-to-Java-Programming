@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter5/Exercise_05_40.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_18_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_18_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter5/Exercise_05_20.java" afterDir="false" />
-    </list>
+    <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +215,7 @@
       <workItem from="1571168044083" duration="1771000" />
       <workItem from="1571190957580" duration="161000" />
       <workItem from="1571263529171" duration="52000" />
-      <workItem from="1571332462070" duration="5740000" />
+      <workItem from="1571332462070" duration="6027000" />
     </task>
     <servers />
   </component>

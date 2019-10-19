@@ -33,7 +33,7 @@ Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
      <li>Chapter 02: Elementary Programming <b>(STATUS: COMPLETED)</b> </li>
      <li>Chapter 03: Selections <b>(STATUS: COMPLETED)</b></li>
      <li>Chapter 04: Mathematical Functions, Characters, and Strings <b>(STATUS: COMPLETED)</b> </li>
-     <li>Chapter 05: Loops (STATUS: INCOMPLETE) </li>
+     <li>Chapter 05: Loops  <b>(STATUS: COMPLETED)</b </li>
      <li>Chapter 06: Methods(STATUS: INCOMPLETE) </li>
      <li>Chapter 07: Single-Dimensional Arrays (STATUS: INCOMPLETE) </li>
      <li>Chapter 08: Multidimensional Arrays (STATUS: INCOMPLETE) </li>
