@@ -27,8 +27,7 @@ public class Exercise_05_32 {
         int guessDigit1 = guess / 10;
         int guessDigit2 = guess % 10;
 
-        System.out.println(
-                "The lottery number is " + lotteryDigit1 + lotteryDigit2);
+        System.out.println("The lottery number is " + lotteryDigit1 + lotteryDigit2);
 
         // Check the guess
         if (guessDigit1 == lotteryDigit1 &&

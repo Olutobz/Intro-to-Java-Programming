@@ -21,8 +21,7 @@ public class Exercise_05_21 {
 
 
         // Display table header
-        System.out.println(
-                "Interest Rate    Monthly Payment    Total Payment");
+        System.out.println("Interest Rate    Monthly Payment    Total Payment");
 
         // Display table with interest rates
         for (double i = 5.0; i <= 8; i += 0.125) {
