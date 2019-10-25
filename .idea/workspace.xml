@@ -81,20 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise_05_21">
-    <configuration name="Exercise_05_18_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_18_02" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PrimeNumberMethod">
     <configuration name="Exercise_05_18_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_18_03" />
       <module name="Intro-to-Java-Programming" />
@@ -147,13 +134,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeNumberMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.PrimeNumberMethod" />
+      <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumberMethod" />
         <item itemvalue="Application.Exercise_05_21" />
         <item itemvalue="Application.Exercise_05_20" />
         <item itemvalue="Application.Exercise_05_19" />
         <item itemvalue="Application.Exercise_05_18_03" />
-        <item itemvalue="Application.Exercise_05_18_02" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +221,8 @@
       <workItem from="1571500686418" duration="140000" />
       <workItem from="1571602945946" duration="901000" />
       <workItem from="1571686668559" duration="1151000" />
-      <workItem from="1571778118386" duration="539000" />
+      <workItem from="1571778118386" duration="1272000" />
+      <workItem from="1572011396640" duration="1470000" />
     </task>
     <servers />
   </component>
