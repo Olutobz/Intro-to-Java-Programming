@@ -31,14 +31,14 @@ public class Exercise_06_03 {
     /**
      * Method isPalindrome returns true if number is a palindrome
      */
-    private static boolean isPalindrome(int number) {
+    static boolean isPalindrome(int number) {
         return number == reverse(number);
     }
 
     /**
      * Method reverse returns the reversal of an integer
      */
-    private static int reverse(int number) {
+    static int reverse(int number) {
         String reverse = "";    // Holds reversed number
         String n = number + ""; // Convert number to string
         // Reverse string
