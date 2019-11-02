@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_36.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -227,6 +232,7 @@
       <workItem from="1572302638085" duration="233000" />
       <workItem from="1572370229234" duration="1259000" />
       <workItem from="1572469205393" duration="977000" />
+      <workItem from="1572646598300" duration="1511000" />
     </task>
     <servers />
   </component>
