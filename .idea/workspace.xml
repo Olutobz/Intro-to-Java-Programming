@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter6/Exercise_06_36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,12 +61,12 @@
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/solutions/images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -86,20 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumberMethod">
-    <configuration name="Exercise_05_18_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_18_03" />
-      <module name="Intro-to-Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise_06_38">
     <configuration name="Exercise_05_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.Exercise_05_19" />
       <module name="Intro-to-Java-Programming" />
@@ -139,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise_06_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Exercise_06_38" />
+      <module name="Intro-to-Java-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeNumberMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6.PrimeNumberMethod" />
       <module name="Intro-to-Java-Programming" />
@@ -154,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise_06_38" />
         <item itemvalue="Application.PrimeNumberMethod" />
         <item itemvalue="Application.Exercise_05_21" />
         <item itemvalue="Application.Exercise_05_20" />
         <item itemvalue="Application.Exercise_05_19" />
-        <item itemvalue="Application.Exercise_05_18_03" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +228,8 @@
       <workItem from="1572370229234" duration="1259000" />
       <workItem from="1572469205393" duration="977000" />
       <workItem from="1572646598300" duration="1511000" />
+      <workItem from="1572732392803" duration="172000" />
+      <workItem from="1572800708770" duration="977000" />
     </task>
     <servers />
   </component>
