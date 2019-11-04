@@ -26,8 +26,7 @@ public class Exercise_06_37 {
         int width = input.nextInt();
 
         // Display a string of formatted number
-        System.out.println(
-                number + " formatted to width " + width + ": " + format(number, width));
+        System.out.println(number + " formatted to width " + width + ": " + format(number, width));
     }
 
     /**
