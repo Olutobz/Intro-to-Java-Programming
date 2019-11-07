@@ -1,7 +1,5 @@
 package chapter7;
 
-import java.util.Scanner;
-
 /*********************************************************************************
  * (Computing gcd) Write a method that returns the gcd of an unspecified number   *
  * of integers. The method header is specified as follows:                        *
@@ -9,6 +7,9 @@ import java.util.Scanner;
  * Write a test program that prompts the user to enter five numbers, invokes the  *
  * method to find the gcd of these numbers, and displays the gcd.                 *
  *********************************************************************************/
+
+
+import java.util.Scanner;
 
 public class Exercise_07_14 {
     public static void main(String[] args) {

@@ -1,7 +1,4 @@
 package chapter7;
-
-import java.util.Scanner;
-
 /*********************************************************************************
  * (Eliminate duplicates) Write a method that returns a new array by eliminating  *
  * the duplicate values in the array using the following method header:           *
@@ -9,6 +6,8 @@ import java.util.Scanner;
  * Write a test program that reads in ten integers, invokes the method, and       *
  * displays the result.                                                           *
  *********************************************************************************/
+
+import java.util.Scanner;
 
 public class Exercise_07_15 {
     public static void main(String[] args) {
@@ -33,7 +32,7 @@ public class Exercise_07_15 {
     }
 
     /**
-     * eleminateDuplicates returns a new array with duplicate values eliminated
+     * eliminateDuplicates returns a new array with duplicate values eliminated
      */
     public static int[] eliminateDuplicates(int[] list) {
         int[] distinctList = new int[list.length];
