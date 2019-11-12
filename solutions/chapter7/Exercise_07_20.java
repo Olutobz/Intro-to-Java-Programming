@@ -1,7 +1,4 @@
 package chapter7;
-
-import java.util.Scanner;
-
 /*********************************************************************************
  * (Revise selection sort) In Section 7.11, you used selection sort to sort an    *
  * array. The selection-sort method repeatedly finds the smallest number in the   *
@@ -9,6 +6,8 @@ import java.util.Scanner;
  * largest number and swapping it with the last. Write a test program that reads  *
  * in ten double numbers, invokes the method, and displays the sorted numbers.    *
  *********************************************************************************/
+
+import java.util.Scanner;
 
 public class Exercise_07_20 {
     public static void main(String[] args) {
