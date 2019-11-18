@@ -35,7 +35,7 @@ Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
      <li>Chapter 04: Mathematical Functions, Characters, and Strings <b>(STATUS: COMPLETED)</b> </li>
      <li>Chapter 05: Loops <b>(STATUS: COMPLETED)</b> </li>
      <li>Chapter 06: Methods <b>(STATUS: COMPLETED)</b> </li>
-     <li>Chapter 07: Single-Dimensional Arrays (STATUS: INCOMPLETE) </li>
+     <li>Chapter 07: Single-Dimensional Arrays <b>(STATUS: COMPLETED)</b> </li>
      <li>Chapter 08: Multidimensional Arrays (STATUS: INCOMPLETE) </li>
      <li>Chapter 09: Objects and Classes (STATUS: INCOMPLETE) </li>
      <li>Chapter 10: Object-Oriented Thinking (STATUS: INCOMPLETE) </li>
