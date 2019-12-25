@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="509038ab-7efc-4308-8157-fe2dcc7eb388" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter7/Exercise_07_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter7/Exercise_07_29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter7/Exercise_07_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro-to-Java-Programming/chapter7/Exercise_07_30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/chapter8/Exercise_08_10.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +45,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ONlineSoln/Intro-to-Java-Programming-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -249,7 +242,9 @@
       <workItem from="1574191306775" duration="2369000" />
       <workItem from="1574447937606" duration="417000" />
       <workItem from="1574496761364" duration="1458000" />
-      <workItem from="1574698858051" duration="794000" />
+      <workItem from="1574698858051" duration="1062000" />
+      <workItem from="1577274153696" duration="47000" />
+      <workItem from="1577292382190" duration="1551000" />
     </task>
     <servers />
   </component>
